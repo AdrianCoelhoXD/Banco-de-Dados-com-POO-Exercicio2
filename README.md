@@ -1,4 +1,6 @@
-# Captura-hoteis-exercicio-2
+# Banco-de-Dados-com-POO-Exercicio2 
+
+Banco de Dados com POO - Professor(a) Luciana ROTEIRO PRÁTICO Persistência a dados Capturar dados de hoteis
 
 ROTEIRO PRÁTICO
 Tipos de dados
